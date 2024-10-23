@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using OOP_Project.Examples;
 
 namespace OOP_Project.Controllers
 {
@@ -105,6 +106,41 @@ namespace OOP_Project.Controllers
         {
             ViewBag.s = Sentence();
             User("admin004");
+            return View();
+        }
+
+        public IActionResult Test()
+        {
+            Cities city = new Cities();
+
+            city.CityId = 1;
+            city.CityName = "Kiev";
+            city.Population = 1000000;
+            city.Country = "Ukrayna";
+            city.Color1 = "Mavi";
+            city.Color2 = "Sarı";
+
+            ViewBag.c11 = city.CityId;
+            ViewBag.c12 = city.CityName;
+            ViewBag.c13 = city.Country;
+            ViewBag.c14 = city.Population;
+            ViewBag.c15 = city.Color1;
+            ViewBag.c16 = city.Color2;
+
+            city.CityId = 2;
+            city.CityName = "Üsküp";
+            city.Population = 500000;
+            city.Country = "Makedonya";
+            city.Color1 = "Kırmızı";
+            city.Color2 = "Sarı";
+
+            ViewBag.c21 = city.CityId;
+            ViewBag.c22 = city.CityName;
+            ViewBag.c23 = city.Country;
+            ViewBag.c24 = city.Population;
+            ViewBag.c25 = city.Color1;
+            ViewBag.c26 = city.Color2;
+
             return View();
         }
     }

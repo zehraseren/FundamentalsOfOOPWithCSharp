@@ -1,0 +1,35 @@
+﻿@{
+    Layout = null;
+}
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+<div class="container">
+    <br />
+    <h1>Şehirler</h1>
+    <br />
+    <table class="table table-bordered">
+        <tr>
+            <th>#</th>
+            <th>Şehir Adı</th>
+            <th>Ülke</th>
+            <th>Nüfusu</th>
+            <th>Bayrak Rengi</th>
+        </tr>
+        <tr>
+            <td>@ViewBag.c11</td>
+            <td>@ViewBag.c12</td>
+            <td>@ViewBag.c13</td>
+            <td>@ViewBag.c14</td>
+            <td>@ViewBag.c15 @ViewBag.c16</td>
+        </tr>
+        <tr>
+            <td>@ViewBag.c21</td>
+            <td>@ViewBag.c22</td>
+            <td>@ViewBag.c23</td>
+            <td>@ViewBag.c24</td>
+            <td>@ViewBag.c25 @ViewBag.c26</td>
+        </tr>
+    </table>
+    <a href="/Default/Product/" class="btn btn-outline-primary">Ürünlere Git</a>
+</div>
