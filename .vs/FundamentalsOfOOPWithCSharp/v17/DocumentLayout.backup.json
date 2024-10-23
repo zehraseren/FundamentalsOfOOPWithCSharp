@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F2056AF-A4E4-4683-8E2C-ECA0FD57A97A}|L01.OOP_Project\\OOP_Project.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\l01.oop_project\\views\\default\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3F2056AF-A4E4-4683-8E2C-ECA0FD57A97A}|L01.OOP_Project\\OOP_Project.csproj|solutionrelative:l01.oop_project\\views\\default\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3F2056AF-A4E4-4683-8E2C-ECA0FD57A97A}|L01.OOP_Project\\OOP_Project.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\l01.oop_project\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F2056AF-A4E4-4683-8E2C-ECA0FD57A97A}|L01.OOP_Project\\OOP_Project.csproj|solutionrelative:l01.oop_project\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F2056AF-A4E4-4683-8E2C-ECA0FD57A97A}|L01.OOP_Project\\OOP_Project.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\l01.oop_project\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F2056AF-A4E4-4683-8E2C-ECA0FD57A97A}|L01.OOP_Project\\OOP_Project.csproj|solutionrelative:l01.oop_project\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F2056AF-A4E4-4683-8E2C-ECA0FD57A97A}|L01.OOP_Project\\OOP_Project.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\l01.oop_project\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2056AF-A4E4-4683-8E2C-ECA0FD57A97A}|L01.OOP_Project\\OOP_Project.csproj|solutionrelative:l01.oop_project\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F2056AF-A4E4-4683-8E2C-ECA0FD57A97A}|L01.OOP_Project\\OOP_Project.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\l01.oop_project\\views\\default\\customer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3F2056AF-A4E4-4683-8E2C-ECA0FD57A97A}|L01.OOP_Project\\OOP_Project.csproj|solutionrelative:l01.oop_project\\views\\default\\customer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F2056AF-A4E4-4683-8E2C-ECA0FD57A97A}|L01.OOP_Project\\OOP_Project.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\l01.oop_project\\views\\default\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3F2056AF-A4E4-4683-8E2C-ECA0FD57A97A}|L01.OOP_Project\\OOP_Project.csproj|solutionrelative:l01.oop_project\\views\\default\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F2056AF-A4E4-4683-8E2C-ECA0FD57A97A}|L01.OOP_Project\\OOP_Project.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\l01.oop_project\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3F2056AF-A4E4-4683-8E2C-ECA0FD57A97A}|L01.OOP_Project\\OOP_Project.csproj|solutionrelative:l01.oop_project\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3F2056AF-A4E4-4683-8E2C-ECA0FD57A97A}|L01.OOP_Project\\OOP_Project.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\l01.oop_project\\views\\product\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F2056AF-A4E4-4683-8E2C-ECA0FD57A97A}|L01.OOP_Project\\OOP_Project.csproj|solutionrelative:l01.oop_project\\views\\product\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +22,46 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DefaultController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\L01.OOP_Project\\Controllers\\DefaultController.cs",
-              "RelativeDocumentMoniker": "L01.OOP_Project\\Controllers\\DefaultController.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\L01.OOP_Project\\Controllers\\DefaultController.cs",
-              "RelativeToolTip": "L01.OOP_Project\\Controllers\\DefaultController.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAA7wIUAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T17:18:22.502Z",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\L01.OOP_Project\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "L01.OOP_Project\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\L01.OOP_Project\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "L01.OOP_Project\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T23:01:06.89Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Test.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\L01.OOP_Project\\Views\\Default\\Test.cshtml",
-              "RelativeDocumentMoniker": "L01.OOP_Project\\Views\\Default\\Test.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\L01.OOP_Project\\Views\\Default\\Test.cshtml",
-              "RelativeToolTip": "L01.OOP_Project\\Views\\Default\\Test.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-23T21:54:39.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Customer.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\L01.OOP_Project\\Views\\Default\\Customer.cshtml",
-              "RelativeDocumentMoniker": "L01.OOP_Project\\Views\\Default\\Customer.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\L01.OOP_Project\\Views\\Default\\Customer.cshtml",
-              "RelativeToolTip": "L01.OOP_Project\\Views\\Default\\Customer.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "UpdateProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\L01.OOP_Project\\Views\\Product\\UpdateProduct.cshtml",
+              "RelativeDocumentMoniker": "L01.OOP_Project\\Views\\Product\\UpdateProduct.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\L01.OOP_Project\\Views\\Product\\UpdateProduct.cshtml",
+              "RelativeToolTip": "L01.OOP_Project\\Views\\Product\\UpdateProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-23T17:58:56.147Z",
+              "WhenOpened": "2024-10-23T23:43:20.234Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Products.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\L01.OOP_Project\\Views\\Default\\Products.cshtml",
-              "RelativeDocumentMoniker": "L01.OOP_Project\\Views\\Default\\Products.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\L01.OOP_Project\\Views\\Default\\Products.cshtml",
-              "RelativeToolTip": "L01.OOP_Project\\Views\\Default\\Products.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-23T17:58:51.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\L01.OOP_Project\\Views\\Default\\Index.cshtml",
-              "RelativeDocumentMoniker": "L01.OOP_Project\\Views\\Default\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\L01.OOP_Project\\Views\\Default\\Index.cshtml",
-              "RelativeToolTip": "L01.OOP_Project\\Views\\Default\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-23T17:39:09.827Z",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\L01.OOP_Project\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "L01.OOP_Project\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\L01.OOP_Project\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "L01.OOP_Project\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:41:27.351Z",
               "EditorCaption": ""
             }
           ]

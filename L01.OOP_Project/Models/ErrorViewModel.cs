@@ -1,4 +1,4 @@
-namespace L01.OOP_Project.Models
+namespace OOP_Project.Models
 {
     public class ErrorViewModel
     {
