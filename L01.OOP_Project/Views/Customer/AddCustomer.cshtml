@@ -1,0 +1,18 @@
+﻿@model Customer
+
+@{
+    ViewData["Title"] = "AddCustomer";
+    Layout = "~/Views/Shared/_CoreLayout.cshtml";
+}
+
+<h1>Müşteri Ekleme Sayfası</h1>
+<form method="post">
+    @Html.Label("Müşteri Adı")
+    @Html.TextAreaFor(x => x.CustomerName, new { @class = "form-control" })
+    <br />
+    @Html.Label("Şehir")
+    @Html.TextAreaFor(x => x.CustomerCity, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-success">Müşteriyi Ekle</button>
+    <a href="/Customer/Index/" class="btn btn-danger">Vazgeç</a>
+</form>
