@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{517DD96A-6E3F-453A-9E92-490D79586572}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\businesslayer\\fluentvalidation\\customervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{517DD96A-6E3F-453A-9E92-490D79586572}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\fluentvalidation\\customervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB6D90B5-0F85-404D-813D-E67ABE4BF599}|DemoProduct\\DemoProduct.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\demoproduct\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB6D90B5-0F85-404D-813D-E67ABE4BF599}|DemoProduct\\DemoProduct.csproj|solutionrelative:demoproduct\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{517DD96A-6E3F-453A-9E92-490D79586572}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\businesslayer\\fluentvalidation\\categoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{517DD96A-6E3F-453A-9E92-490D79586572}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\fluentvalidation\\categoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB6D90B5-0F85-404D-813D-E67ABE4BF599}|DemoProduct\\DemoProduct.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\demoproduct\\views\\shared\\_uilayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB6D90B5-0F85-404D-813D-E67ABE4BF599}|DemoProduct\\DemoProduct.csproj|solutionrelative:demoproduct\\views\\shared\\_uilayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{517DD96A-6E3F-453A-9E92-490D79586572}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\businesslayer\\fluentvalidation\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{517DD96A-6E3F-453A-9E92-490D79586572}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\fluentvalidation\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB6D90B5-0F85-404D-813D-E67ABE4BF599}|DemoProduct\\DemoProduct.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\demoproduct\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6D90B5-0F85-404D-813D-E67ABE4BF599}|DemoProduct\\DemoProduct.csproj|solutionrelative:demoproduct\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{517DD96A-6E3F-453A-9E92-490D79586572}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\businesslayer\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{517DD96A-6E3F-453A-9E92-490D79586572}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB6D90B5-0F85-404D-813D-E67ABE4BF599}|DemoProduct\\DemoProduct.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\demoproduct\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6D90B5-0F85-404D-813D-E67ABE4BF599}|DemoProduct\\DemoProduct.csproj|solutionrelative:demoproduct\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{517DD96A-6E3F-453A-9E92-490D79586572}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\businesslayer\\concrete\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{517DD96A-6E3F-453A-9E92-490D79586572}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{517DD96A-6E3F-453A-9E92-490D79586572}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\businesslayer\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{517DD96A-6E3F-453A-9E92-490D79586572}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB6D90B5-0F85-404D-813D-E67ABE4BF599}|DemoProduct\\DemoProduct.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\demoproduct\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6D90B5-0F85-404D-813D-E67ABE4BF599}|DemoProduct\\DemoProduct.csproj|solutionrelative:demoproduct\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,79 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CategoryValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\BusinessLayer\\FluentValidation\\CategoryValidator.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\FluentValidation\\CategoryValidator.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\BusinessLayer\\FluentValidation\\CategoryValidator.cs",
-              "RelativeToolTip": "BusinessLayer\\FluentValidation\\CategoryValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T23:27:51.845Z",
+              "Title": "_UILayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\DemoProduct\\Views\\Shared\\_UILayout.cshtml",
+              "RelativeDocumentMoniker": "DemoProduct\\Views\\Shared\\_UILayout.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\DemoProduct\\Views\\Shared\\_UILayout.cshtml",
+              "RelativeToolTip": "DemoProduct\\Views\\Shared\\_UILayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T23:51:20.542Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CustomerValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\BusinessLayer\\FluentValidation\\CustomerValidator.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\FluentValidation\\CustomerValidator.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\BusinessLayer\\FluentValidation\\CustomerValidator.cs",
-              "RelativeToolTip": "BusinessLayer\\FluentValidation\\CustomerValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T23:27:42.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\BusinessLayer\\FluentValidation\\ProductValidator.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\FluentValidation\\ProductValidator.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\BusinessLayer\\FluentValidation\\ProductValidator.cs",
-              "RelativeToolTip": "BusinessLayer\\FluentValidation\\ProductValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T23:27:32.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CustomerManager.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\BusinessLayer\\Concrete\\CustomerManager.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\CustomerManager.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\BusinessLayer\\Concrete\\CustomerManager.cs",
-              "RelativeToolTip": "BusinessLayer\\Concrete\\CustomerManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T23:16:30.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoryManager.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\BusinessLayer\\Concrete\\CategoryManager.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\CategoryManager.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\BusinessLayer\\Concrete\\CategoryManager.cs",
-              "RelativeToolTip": "BusinessLayer\\Concrete\\CategoryManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T23:16:14.393Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\DemoProduct\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "DemoProduct\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\DemoProduct\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "DemoProduct\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T23:47:38.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductManager.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\BusinessLayer\\Concrete\\ProductManager.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\ProductManager.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\BusinessLayer\\Concrete\\ProductManager.cs",
-              "RelativeToolTip": "BusinessLayer\\Concrete\\ProductManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAiAAAAAAAAAA==",
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\DemoProduct\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "DemoProduct\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\DemoProduct\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "DemoProduct\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T23:16:05.528Z",
+              "WhenOpened": "2024-10-24T23:40:43.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\DemoProduct\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "DemoProduct\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\DemoProduct\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "DemoProduct\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T23:40:36.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\DemoProduct\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "DemoProduct\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\DemoProduct\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "DemoProduct\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T23:40:25.934Z",
               "EditorCaption": ""
             }
           ]
