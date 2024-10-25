@@ -1,0 +1,22 @@
+﻿@model Customer
+
+@{
+    ViewData["Title"] = "UpdateCustomer";
+    Layout = "~/Views/Shared/_UILayout.cshtml";
+}
+
+<form method="post">
+    @Html.Label("Ürün ID")
+    @Html.TextBoxFor(x => x.CustomerId, new { @class = "form-control" })
+    <br />
+    @Html.Label("Ürün Adı")
+    @Html.TextBoxFor(x => x.CustomerName, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.CustomerName, "", new { style = "color:red" })
+    <br />
+    @Html.Label("Ürün Fiyatı")
+    @Html.TextBoxFor(x => x.CustomerCity, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.CustomerCity, "", new { style = "color:red" })
+    <br />
+    <button class="btn btn-outline-success">Müşteriyi Güncelle</button>
+    <a href="/Customer/Index/" class="btn btn-outline-danger">Vazgeç</a>
+</form>

@@ -1,0 +1,26 @@
+﻿@model Product
+
+@{
+    ViewData["Title"] = "UpdateProduct";
+    Layout = "~/Views/Shared/_UILayout.cshtml";
+}
+
+<form method="post">
+    @Html.Label("Ürün ID")
+    @Html.TextBoxFor(x => x.ProductId, new { @class = "form-control" })
+    <br />
+    @Html.Label("Ürün Adı")
+    @Html.TextBoxFor(x => x.ProductName, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.ProductName, "", new { style = "color:red" })
+    <br />
+    @Html.Label("Ürün Fiyatı")
+    @Html.TextBoxFor(x => x.ProductPrice, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.ProductPrice, "", new { style = "color:red" })
+    <br />
+    @Html.Label("Ürün Stok")
+    @Html.TextBoxFor(x => x.ProductStock, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.ProductStock, "", new { style = "color:red" })
+    <br />
+    <button class="btn btn-outline-success">Ürünü Güncelle</button>
+    <a href="/Product/Index/" class="btn btn-outline-danger">Vazgeç</a>
+</form>

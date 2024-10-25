@@ -1,0 +1,19 @@
+﻿@model Customer
+
+@{
+    ViewData["Title"] = "AddCustomer";
+    Layout = "~/Views/Shared/_UILayout.cshtml";
+}
+
+<form method="post">
+    @Html.Label("Müşteri Adı")
+    @Html.TextBoxFor(x => x.CustomerName, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.CustomerName, "", new { style = "color:red" })
+    <br />
+    @Html.Label("Şehir")
+    @Html.TextBoxFor(x => x.CustomerCity, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.CustomerCity, "", new { style = "color:red" })
+    <br />
+    <button class="btn btn-outline-primary">Müşteriyi Ekle</button>
+    <a href="/Customer/Index/" class="btn btn-outline-danger">Vazgeç</a>
+</form>

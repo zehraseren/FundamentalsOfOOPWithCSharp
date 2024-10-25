@@ -1,0 +1,28 @@
+﻿@model List<Product>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_UILayout.cshtml";
+}
+
+<table class="table table-bordered">
+    <tr>
+        <th>#</th>
+        <th>Ürün Adı</th>
+        <th>Ürün Fiyatı</th>
+        <th>Ürün Stok</th>
+        <th>Sil</th>
+        <th>Güncelle</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ProductId</td>
+            <td>@item.ProductName</td>
+            <td>@item.ProductPrice</td>
+            <td>@item.ProductStock</td>
+            <td><a href="/Product/DeleteProduct/@item.ProductId" class="btn btn-outline-danger">Sil</a></td>
+            <td><a href="/Product/UpdateProduct/@item.ProductId" class="btn btn-outline-success">Güncelle</a></td>
+        </tr>
+    }
+</table>
