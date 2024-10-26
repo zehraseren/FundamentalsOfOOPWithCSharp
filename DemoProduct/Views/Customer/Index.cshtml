@@ -10,6 +10,7 @@
         <th>#</th>
         <th>Müşteri Adı</th>
         <th>Şehir</th>
+        <th>Meslek</th>
         <th>Sil</th>
         <th>Güncelle</th>
     </tr>
@@ -19,6 +20,7 @@
             <td>@item.CustomerId</td>
             <td>@item.CustomerName</td>
             <td>@item.CustomerCity</td>
+            <td>@item.Job.JobName</td>
             <td><a href="/Customer/DeleteCustomer/@item.CustomerId" class="btn btn-outline-danger">Sil</a></td>
             <td><a href="/Customer/UpdateCustomer/@item.CustomerId" class="btn btn-outline-success">Güncelle</a></td>
         </tr>

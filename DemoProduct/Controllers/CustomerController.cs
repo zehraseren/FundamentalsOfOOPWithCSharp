@@ -4,22 +4,32 @@ using Microsoft.AspNetCore.Mvc;
 using FluentValidation.Results;
 using BusinessLayer.FluentValidation;
 using DataAccessLayer.EntityFramework;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace DemoProduct.Controllers
 {
     public class CustomerController : Controller
     {
         CustomerManager _customerManager = new CustomerManager(new EfCustomerDal());
+        JobManager jm = new JobManager(new EfJobDal());
 
         public IActionResult Index()
         {
-            var values = _customerManager.TGetList();
+            var values = _customerManager.GetCustomersListWithJob();
             return View(values);
         }
 
         [HttpGet]
         public IActionResult AddCustomer()
         {
+            JobManager jm = new JobManager(new EfJobDal());
+            List<SelectListItem> values = (from x in jm.TGetList()
+                                           select new SelectListItem
+                                           {
+                                               Value = x.JobId.ToString(),
+                                               Text = x.JobName,
+                                           }).ToList();
+            ViewBag.v = values;
             return View();
         }
 
@@ -54,6 +64,14 @@ namespace DemoProduct.Controllers
         [HttpGet]
         public IActionResult UpdateCustomer(int id)
         {
+            JobManager jm = new JobManager(new EfJobDal());
+            List<SelectListItem> values = (from x in jm.TGetList()
+                                           select new SelectListItem
+                                           {
+                                               Value = x.JobId.ToString(),
+                                               Text = x.JobName,
+                                           }).ToList();
+            ViewBag.v = values;
             var value = _customerManager.TGetById(id);
             return View(value);
         }

@@ -1,0 +1,18 @@
+﻿@model Job
+
+@{
+    ViewData["Title"] = "UpdateJob";
+    Layout = "~/Views/Shared/_UILayout.cshtml";
+}
+
+<form method="post">
+    @Html.Label("Meslek ID")
+    @Html.TextBoxFor(x => x.JobId, new { @class = "form-control" })
+    <br />
+    @Html.Label("Meslek Adı")
+    @Html.TextBoxFor(x => x.JobName, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.JobName, "", new { style = "color:red" })
+    <br />
+    <button class="btn btn-outline-success">Mesleği Güncelle</button>
+    <a href="/Job/Index/" class="btn btn-outline-danger">Vazgeç</a>
+</form>

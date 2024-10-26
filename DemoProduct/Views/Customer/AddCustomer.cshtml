@@ -14,6 +14,9 @@
     @Html.TextBoxFor(x => x.CustomerCity, new { @class = "form-control" })
     @Html.ValidationMessageFor(x => x.CustomerCity, "", new { style = "color:red" })
     <br />
+    @Html.Label("Meslek Seçiniz")
+    @Html.DropDownListFor(x => x.JobId, (List<SelectListItem>)ViewBag.v, new { @class = "form-control" })
+    <br />
     <button class="btn btn-outline-primary">Müşteriyi Ekle</button>
     <a href="/Customer/Index/" class="btn btn-outline-danger">Vazgeç</a>
 </form>
