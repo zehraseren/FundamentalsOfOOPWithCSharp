@@ -19,4 +19,10 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Agriculture.BusinessLayer\Agriculture.BusinessLayer.csproj" />
+    <ProjectReference Include="..\Agriculture.DataAccessLayer\Agriculture.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\Agriculture.EntityLayer\Agriculture.EntityLayer.csproj" />
+  </ItemGroup>
+
 </Project>

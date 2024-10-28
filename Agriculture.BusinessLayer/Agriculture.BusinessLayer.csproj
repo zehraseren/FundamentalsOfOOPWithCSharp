@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Agriculture.DataAccessLayer\Agriculture.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\Agriculture.EntityLayer\Agriculture.EntityLayer.csproj" />
+  </ItemGroup>
+
 </Project>
