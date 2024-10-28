@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB6D90B5-0F85-404D-813D-E67ABE4BF599}|DemoProduct\\DemoProduct.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\demoproduct\\views\\partials\\partial_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CB6D90B5-0F85-404D-813D-E67ABE4BF599}|DemoProduct\\DemoProduct.csproj|solutionrelative:demoproduct\\views\\partials\\partial_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{517DD96A-6E3F-453A-9E92-490D79586572}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\businesslayer\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517DD96A-6E3F-453A-9E92-490D79586572}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB6D90B5-0F85-404D-813D-E67ABE4BF599}|DemoProduct\\DemoProduct.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\demoproduct\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB6D90B5-0F85-404D-813D-E67ABE4BF599}|DemoProduct\\DemoProduct.csproj|solutionrelative:demoproduct\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{517DD96A-6E3F-453A-9E92-490D79586572}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\businesslayer\\concrete\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517DD96A-6E3F-453A-9E92-490D79586572}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB6D90B5-0F85-404D-813D-E67ABE4BF599}|DemoProduct\\DemoProduct.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\demoproduct\\views\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CB6D90B5-0F85-404D-813D-E67ABE4BF599}|DemoProduct\\DemoProduct.csproj|solutionrelative:demoproduct\\views\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{517DD96A-6E3F-453A-9E92-490D79586572}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\businesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517DD96A-6E3F-453A-9E92-490D79586572}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517DD96A-6E3F-453A-9E92-490D79586572}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\businesslayer\\concrete\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517DD96A-6E3F-453A-9E92-490D79586572}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\DemoProduct\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "DemoProduct\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\DemoProduct\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "DemoProduct\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAzAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\BusinessLayer\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\BusinessLayer\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "BusinessLayer\\Concrete\\ProductManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T03:55:46.585Z",
+              "WhenOpened": "2024-10-28T04:08:34.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Partial_Navbar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\DemoProduct\\Views\\Partials\\Partial_Navbar.cshtml",
-              "RelativeDocumentMoniker": "DemoProduct\\Views\\Partials\\Partial_Navbar.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\DemoProduct\\Views\\Partials\\Partial_Navbar.cshtml",
-              "RelativeToolTip": "DemoProduct\\Views\\Partials\\Partial_Navbar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T03:54:07.065Z",
+              "DocumentIndex": 1,
+              "Title": "JobManager.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\BusinessLayer\\Concrete\\JobManager.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\JobManager.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\BusinessLayer\\Concrete\\JobManager.cs",
+              "RelativeToolTip": "BusinessLayer\\Concrete\\JobManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:08:24.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerManager.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\BusinessLayer\\Concrete\\CustomerManager.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\CustomerManager.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\BusinessLayer\\Concrete\\CustomerManager.cs",
+              "RelativeToolTip": "BusinessLayer\\Concrete\\CustomerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:06:36.859Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\DemoProduct\\Views\\Settings\\Index.cshtml",
-              "RelativeDocumentMoniker": "DemoProduct\\Views\\Settings\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\DemoProduct\\Views\\Settings\\Index.cshtml",
-              "RelativeToolTip": "DemoProduct\\Views\\Settings\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T03:08:50.869Z",
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\BusinessLayer\\Abstract\\IGenericService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\BusinessLayer\\Abstract\\IGenericService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\IGenericService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:04:09.241Z",
               "EditorCaption": ""
             }
           ]

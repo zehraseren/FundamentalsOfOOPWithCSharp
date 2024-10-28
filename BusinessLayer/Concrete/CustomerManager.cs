@@ -4,7 +4,7 @@ using DataAccessLayer.Abstract;
 
 namespace BusinessLayer.Concrete
 {
-    public class CustomerManager : ICustomerService
+    public class CustomerManager : IGenericService<Customer>
     {
         ICustomerDal _customerDal;
 

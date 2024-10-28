@@ -4,7 +4,7 @@ using DataAccessLayer.Abstract;
 
 namespace BusinessLayer.Concrete
 {
-    public class CategoryManager : ICategoryService
+    public class CategoryManager : IGenericService<Category>
     {
         ICategoryDal _categoryDal;
 

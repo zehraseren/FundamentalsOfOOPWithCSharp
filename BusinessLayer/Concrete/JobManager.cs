@@ -4,7 +4,7 @@ using DataAccessLayer.Abstract;
 
 namespace BusinessLayer.Concrete
 {
-    public class JobManager : IJobService
+    public class JobManager : IGenericService<Job>
     {
         IJobDal _jobDal;
 
