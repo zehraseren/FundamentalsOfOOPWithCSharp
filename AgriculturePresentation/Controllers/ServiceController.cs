@@ -67,5 +67,10 @@ namespace Agriculture.Presentation.Controllers
             _serviceService.Update(service);
             return RedirectToAction("Index");
         }
+
+        public IActionResult Test()
+        {
+            return View();
+        }
     }
 }
