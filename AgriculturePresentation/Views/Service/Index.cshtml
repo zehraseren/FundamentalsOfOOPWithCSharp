@@ -10,14 +10,18 @@
     <tr>
         <th>#</th>
         <th>Başlık</th>
+        <th>Sil</th>
+        <th>Güncelle</th>
     </tr>
     @foreach (var item in Model)
     {
         <tr>
             <td>@item.ServiceId</td>
             <td>@item.Title</td>
+            <td><a href="/Service/DeleteService/@item.ServiceId" class="btn btn-outline-danger">Sil</a></td>
+            <td><a href="/Service/UpdateService/@item.ServiceId" class="btn btn-outline-success">Güncelle</a></td>
         </tr>
     }
 </table>
-<a href="#" class="btn btn-outline-primary">Yeni Hizmet Girişi</a>
+<a href="/Service/AddService/" class="btn btn-outline-primary">Yeni Hizmet Girişi</a>
 

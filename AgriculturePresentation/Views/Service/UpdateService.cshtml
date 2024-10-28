@@ -1,0 +1,22 @@
+﻿@model Service
+
+@{
+    ViewData["Title"] = "UpdateService";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Hizmet Güncelleme Sayfası</h1>
+<form method="post">
+    @Html.HiddenFor(x => x.ServiceId)
+    @Html.Label("Başlık")
+    <input type="text" asp-for="Title" class="form-control" />
+    <br />
+    @Html.Label("Görsel Yolu")
+    <input type="text" asp-for="Image" class="form-control" />
+    <br />
+    @Html.Label("Açıklama")
+    <input type="text" asp-for="Description" class="form-control" />
+    <br />
+    <button class="btn btn-outline-success">Değişiklikleri Kaydet</button>
+    <a href="/Service/Index/" class="btn btn-outline-danger">Vazgeç</a>
+</form>
