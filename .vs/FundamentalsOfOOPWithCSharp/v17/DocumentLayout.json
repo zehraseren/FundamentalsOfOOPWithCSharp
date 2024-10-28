@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\Agriculture.DataAccessLayer\\Migrations\\20241028045119_create-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Agriculture.DataAccessLayer\\Migrations\\20241028045119_create-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86ED8758-8359-4B47-9617-4388CC1A642B}|AgriculturePresentation\\Agriculture.Presentation.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\agriculturepresentation\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86ED8758-8359-4B47-9617-4388CC1A642B}|AgriculturePresentation\\Agriculture.Presentation.csproj|solutionrelative:agriculturepresentation\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF146093-1527-483C-8BF8-876E944B9E00}|Agriculture.EntityLayer\\Agriculture.EntityLayer.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\agriculture.entitylayer\\concrete\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF146093-1527-483C-8BF8-876E944B9E00}|Agriculture.EntityLayer\\Agriculture.EntityLayer.csproj|solutionrelative:agriculture.entitylayer\\concrete\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86ED8758-8359-4B47-9617-4388CC1A642B}|AgriculturePresentation\\Agriculture.Presentation.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\agriculturepresentation\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86ED8758-8359-4B47-9617-4388CC1A642B}|AgriculturePresentation\\Agriculture.Presentation.csproj|solutionrelative:agriculturepresentation\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D6A2E16-0DD4-4E09-8AAB-2014CD6B9353}|Agriculture.DataAccessLayer\\Agriculture.DataAccessLayer.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\agriculture.dataaccesslayer\\contexts\\agriculturecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D6A2E16-0DD4-4E09-8AAB-2014CD6B9353}|Agriculture.DataAccessLayer\\Agriculture.DataAccessLayer.csproj|solutionrelative:agriculture.dataaccesslayer\\contexts\\agriculturecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25BCD22A-E54D-4C0C-97B9-E38F1D139D8B}|Agriculture.BusinessLayer\\Agriculture.BusinessLayer.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\agriculture.businesslayer\\concrete\\teammanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BCD22A-E54D-4C0C-97B9-E38F1D139D8B}|Agriculture.BusinessLayer\\Agriculture.BusinessLayer.csproj|solutionrelative:agriculture.businesslayer\\concrete\\teammanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20241028045119_create-db.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\Agriculture.DataAccessLayer\\Migrations\\20241028045119_create-db.cs",
-              "RelativeDocumentMoniker": "Agriculture.DataAccessLayer\\Migrations\\20241028045119_create-db.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\Agriculture.DataAccessLayer\\Migrations\\20241028045119_create-db.cs",
-              "RelativeToolTip": "Agriculture.DataAccessLayer\\Migrations\\20241028045119_create-db.cs",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\AgriculturePresentation\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "AgriculturePresentation\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\AgriculturePresentation\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "AgriculturePresentation\\Views\\Default\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T04:51:19.958Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T16:57:58.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Team.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\Agriculture.EntityLayer\\Concrete\\Team.cs",
-              "RelativeDocumentMoniker": "Agriculture.EntityLayer\\Concrete\\Team.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\Agriculture.EntityLayer\\Concrete\\Team.cs",
-              "RelativeToolTip": "Agriculture.EntityLayer\\Concrete\\Team.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\AgriculturePresentation\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "AgriculturePresentation\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\AgriculturePresentation\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "AgriculturePresentation\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T04:51:07.354Z",
+              "WhenOpened": "2024-10-28T16:57:11.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AgricultureContext.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\Agriculture.DataAccessLayer\\Contexts\\AgricultureContext.cs",
-              "RelativeDocumentMoniker": "Agriculture.DataAccessLayer\\Contexts\\AgricultureContext.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\Agriculture.DataAccessLayer\\Contexts\\AgricultureContext.cs",
-              "RelativeToolTip": "Agriculture.DataAccessLayer\\Contexts\\AgricultureContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Title": "TeamManager.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\Agriculture.BusinessLayer\\Concrete\\TeamManager.cs",
+              "RelativeDocumentMoniker": "Agriculture.BusinessLayer\\Concrete\\TeamManager.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\Agriculture.BusinessLayer\\Concrete\\TeamManager.cs",
+              "RelativeToolTip": "Agriculture.BusinessLayer\\Concrete\\TeamManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T04:41:55.321Z",
+              "WhenOpened": "2024-10-28T16:50:21.201Z",
               "EditorCaption": ""
             }
           ]
