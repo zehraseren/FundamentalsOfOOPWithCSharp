@@ -1,4 +1,4 @@
-namespace AgriculturePresentation.Models
+namespace Agriculture.Presentation.Models
 {
     public class ErrorViewModel
     {
