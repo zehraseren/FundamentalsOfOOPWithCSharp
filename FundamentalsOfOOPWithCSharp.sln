@@ -5,13 +5,21 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP_Project", "L01.OOP_Project\OOP_Project.csproj", "{3F2056AF-A4E4-4683-8E2C-ECA0FD57A97A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoProduct", "DemoProduct\DemoProduct.csproj", "{CB6D90B5-0F85-404D-813D-E67ABE4BF599}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoProduct", "DemoProduct\DemoProduct.csproj", "{CB6D90B5-0F85-404D-813D-E67ABE4BF599}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityLayer", "EntityLayer\EntityLayer.csproj", "{B56AABCB-E6E3-41B6-8B81-759925B18A80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityLayer", "EntityLayer\EntityLayer.csproj", "{B56AABCB-E6E3-41B6-8B81-759925B18A80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{8F73E1D5-42C9-49A4-BA5D-1F61685F5AF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{8F73E1D5-42C9-49A4-BA5D-1F61685F5AF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{517DD96A-6E3F-453A-9E92-490D79586572}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{517DD96A-6E3F-453A-9E92-490D79586572}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agriculture.Presentation", "AgriculturePresentation\Agriculture.Presentation.csproj", "{86ED8758-8359-4B47-9617-4388CC1A642B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agriculture.EntityLayer", "Agriculture.EntityLayer\Agriculture.EntityLayer.csproj", "{DF146093-1527-483C-8BF8-876E944B9E00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agriculture.DataAccessLayer", "Agriculture.DataAccessLayer\Agriculture.DataAccessLayer.csproj", "{3D6A2E16-0DD4-4E09-8AAB-2014CD6B9353}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agriculture.BusinessLayer", "Agriculture.BusinessLayer\Agriculture.BusinessLayer.csproj", "{25BCD22A-E54D-4C0C-97B9-E38F1D139D8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +47,22 @@ Global
 		{517DD96A-6E3F-453A-9E92-490D79586572}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{517DD96A-6E3F-453A-9E92-490D79586572}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{517DD96A-6E3F-453A-9E92-490D79586572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86ED8758-8359-4B47-9617-4388CC1A642B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86ED8758-8359-4B47-9617-4388CC1A642B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86ED8758-8359-4B47-9617-4388CC1A642B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86ED8758-8359-4B47-9617-4388CC1A642B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF146093-1527-483C-8BF8-876E944B9E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF146093-1527-483C-8BF8-876E944B9E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF146093-1527-483C-8BF8-876E944B9E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF146093-1527-483C-8BF8-876E944B9E00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D6A2E16-0DD4-4E09-8AAB-2014CD6B9353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6A2E16-0DD4-4E09-8AAB-2014CD6B9353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6A2E16-0DD4-4E09-8AAB-2014CD6B9353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6A2E16-0DD4-4E09-8AAB-2014CD6B9353}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25BCD22A-E54D-4C0C-97B9-E38F1D139D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25BCD22A-E54D-4C0C-97B9-E38F1D139D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25BCD22A-E54D-4C0C-97B9-E38F1D139D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25BCD22A-E54D-4C0C-97B9-E38F1D139D8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
