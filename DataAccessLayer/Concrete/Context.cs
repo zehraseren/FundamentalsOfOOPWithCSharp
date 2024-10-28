@@ -1,9 +1,10 @@
 ﻿using EntityLayer.Concrete;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace DataAccessLayer.Concrete
 {
-    internal class Context : DbContext
+    internal class Context : IdentityDbContext
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -12,6 +13,8 @@ namespace DataAccessLayer.Concrete
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            base.OnModelCreating(modelBuilder);
+
             modelBuilder.Entity<Product>()
                 .Property(p => p.ProductPrice)
                 .HasColumnType("decimal(18,2)");

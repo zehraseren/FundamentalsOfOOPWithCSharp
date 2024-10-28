@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB6D90B5-0F85-404D-813D-E67ABE4BF599}|DemoProduct\\DemoProduct.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\demoproduct\\views\\partials\\partial_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CB6D90B5-0F85-404D-813D-E67ABE4BF599}|DemoProduct\\DemoProduct.csproj|solutionrelative:demoproduct\\views\\partials\\partial_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\DataAccessLayer\\Migrations\\20241027234433_mig02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer\\Migrations\\20241027234433_mig02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB6D90B5-0F85-404D-813D-E67ABE4BF599}|DemoProduct\\DemoProduct.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\demoproduct\\views\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CB6D90B5-0F85-404D-813D-E67ABE4BF599}|DemoProduct\\DemoProduct.csproj|solutionrelative:demoproduct\\views\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8F73E1D5-42C9-49A4-BA5D-1F61685F5AF4}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F73E1D5-42C9-49A4-BA5D-1F61685F5AF4}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB6D90B5-0F85-404D-813D-E67ABE4BF599}|DemoProduct\\DemoProduct.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\demoproduct\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB6D90B5-0F85-404D-813D-E67ABE4BF599}|DemoProduct\\DemoProduct.csproj|solutionrelative:demoproduct\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F73E1D5-42C9-49A4-BA5D-1F61685F5AF4}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\dataaccesslayer\\migrations\\20241027234204_mig01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F73E1D5-42C9-49A4-BA5D-1F61685F5AF4}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\migrations\\20241027234204_mig01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Partial_Sidebar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\DemoProduct\\Views\\Partials\\Partial_Sidebar.cshtml",
-              "RelativeDocumentMoniker": "DemoProduct\\Views\\Partials\\Partial_Sidebar.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\DemoProduct\\Views\\Partials\\Partial_Sidebar.cshtml",
-              "RelativeToolTip": "DemoProduct\\Views\\Partials\\Partial_Sidebar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-26T18:27:53.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\DemoProduct\\Views\\Settings\\Index.cshtml",
-              "RelativeDocumentMoniker": "DemoProduct\\Views\\Settings\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\DemoProduct\\Views\\Settings\\Index.cshtml",
-              "RelativeToolTip": "DemoProduct\\Views\\Settings\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-26T18:26:20.235Z",
+              "Title": "20241027234433_mig02.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\DataAccessLayer\\Migrations\\20241027234433_mig02.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20241027234433_mig02.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\DataAccessLayer\\Migrations\\20241027234433_mig02.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\20241027234433_mig02.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAQwI8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T23:44:33.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SettingsController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\DemoProduct\\Controllers\\SettingsController.cs",
-              "RelativeDocumentMoniker": "DemoProduct\\Controllers\\SettingsController.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\DemoProduct\\Controllers\\SettingsController.cs",
-              "RelativeToolTip": "DemoProduct\\Controllers\\SettingsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Title": "20241027234204_mig01.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\DataAccessLayer\\Migrations\\20241027234204_mig01.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20241027234204_mig01.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\DataAccessLayer\\Migrations\\20241027234204_mig01.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\20241027234204_mig01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T03:57:17.493Z",
+              "WhenOpened": "2024-10-27T23:42:06.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\DataAccessLayer\\Concrete\\Context.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Concrete\\Context.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\DataAccessLayer\\Concrete\\Context.cs",
+              "RelativeToolTip": "DataAccessLayer\\Concrete\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T23:34:08.95Z",
               "EditorCaption": ""
             }
           ]
