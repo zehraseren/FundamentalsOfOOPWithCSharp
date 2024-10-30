@@ -16,6 +16,8 @@ builder.Services.AddScoped<IServiceDal, EfServiceDal>();
 builder.Services.AddScoped<IServiceService, ServiceManager>();
 builder.Services.AddScoped<ITeamDal, EfTeamDal>();
 builder.Services.AddScoped<ITeamService, TeamManager>();
+builder.Services.AddScoped<IAnnouncementDal, EfAnnouncementDal>();
+builder.Services.AddScoped<IAnnouncementService, AnnouncementManager>();
 
 var app = builder.Build();
 

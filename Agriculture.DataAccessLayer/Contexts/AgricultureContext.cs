@@ -13,7 +13,7 @@ namespace Agriculture.DataAccessLayer.Concrete
         public DbSet<Address> Addresses { get; set; }
         public DbSet<Contact> Contacts { get; set; }
         public DbSet<Image> Images { get; set; }
-        public DbSet<Announcement> announcements { get; set; }
+        public DbSet<Announcement> Announcements { get; set; }
         public DbSet<Service> Services { get; set; }
         public DbSet<Team> Teams { get; set; }
     }
