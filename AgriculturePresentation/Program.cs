@@ -14,6 +14,8 @@ builder.Services.AddDbContext<AgricultureContext>();
 builder.Services.AddScoped<IServiceDal, EfServiceDal>();
 // IServiceService interface için ServiceManager class'ýný baðýmlýlýk olarak ekler.
 builder.Services.AddScoped<IServiceService, ServiceManager>();
+builder.Services.AddScoped<ITeamDal, EfTeamDal>();
+builder.Services.AddScoped<ITeamService, TeamManager>();
 
 var app = builder.Build();
 

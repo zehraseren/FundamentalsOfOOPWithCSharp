@@ -1,0 +1,50 @@
+﻿@model Team
+
+@{
+    ViewData["Title"] = "UpdateTeam";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">TAKIM ARKADAŞI BİLGİ GÜNCELLEME</h4>
+            <form class="forms-sample" method="post">
+                @Html.HiddenFor(x => x.TeamId)
+                <div class="form-group">
+                    <label for="">Ad Soyad</label>
+                    <input type="text" class="form-control" id="exampleInputName1" placeholder="Ad Soyad" asp-for="PersonName">
+                    <span asp-validation-for="PersonName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label for="">Görev</label>
+                    <input type="text" class="form-control" id="exampleInputName2" placeholder="Görev" asp-for="PersonTitle">
+                    <span asp-validation-for="PersonTitle" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label for="">Görsel Yolu</label>
+                    <input type="text" class="form-control" id="exampleInputName3" placeholder="Görsel Yolu" asp-for="Image">
+                    <span asp-validation-for="Image" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label for="">Facebook</label>
+                    <input type="text" class="form-control" id="exampleInputName4" placeholder="Facebook linkini giriniz" asp-for="FacebookUrl">
+                </div>
+                <div class="form-group">
+                    <label for="">Instagram</label>
+                    <input type="text" class="form-control" id="exampleInputName5" placeholder="Instagram linkini giriniz" asp-for="InstagramUrl">
+                </div>
+                <div class="form-group">
+                    <label for="">Website</label>
+                    <input type="text" class="form-control" id="exampleInputName6" placeholder="Website linkini giriniz" asp-for="WebsiteUrl">
+                </div>
+                <div class="form-group">
+                    <label for="">Twitter</label>
+                    <input type="text" class="form-control" id="exampleInputName7" placeholder="Twitter linkini giriniz" asp-for="TwitterUrl">
+                </div>
+                <button type="submit" class="btn btn-outline-success me-2">Ekle</button>
+                <a href="/Team/Index/" class="btn btn-outline-danger">Vazgeç</a>
+            </form>
+        </div>
+    </div>
+</div>
