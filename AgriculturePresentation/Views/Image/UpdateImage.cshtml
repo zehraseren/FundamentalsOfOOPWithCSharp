@@ -1,0 +1,34 @@
+﻿@model Image
+
+@{
+    ViewData["Title"] = "UpdateImage";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">GÖRSEL BİLGİLERİ GÜNCELLEME</h4>
+            <form class="forms-sample" method="post">
+                <input type="hidden" asp-for="ImageId" />
+                <div class="form-group">
+                    <label for="">Başlık</label>
+                    <input type="text" class="form-control" id="exampleInputName1" placeholder="Ad Soyad" asp-for="ImageTitle">
+                    <span asp-validation-for="ImageTitle" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label for="">Açıklama</label>
+                    <input type="text" class="form-control" id="exampleInputName2" placeholder="Görev" asp-for="Description">
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label for="">Görsel Yolu</label>
+                    <input type="text" class="form-control" id="exampleInputName3" placeholder="Görsel Yolu" asp-for="ImageUrl">
+                    <span asp-validation-for="ImageUrl" class="text-danger"></span>
+                </div>
+                <button type="submit" class="btn btn-outline-success me-2">Kaydet</button>
+                <a href="/Image/Index/" class="btn btn-outline-danger">Vazgeç</a>
+            </form>
+        </div>
+    </div>
+</div>

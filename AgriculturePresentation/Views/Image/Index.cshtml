@@ -1,0 +1,53 @@
+﻿@model List<Image>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">GÖRSEL LİSTESİ</h4>
+            <div class="table-responsive">
+                @if (Model.Count > 0)
+                {
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Başlık</th>
+                                <th>Açıklama</th>
+                                <th>Sil</th>
+                                <th>Güncelle</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td class="py-1"><img src="@item.ImageUrl" alt="image" /></td>
+                                    <td>@item.ImageTitle</td>
+                                    <td>@item.Description</td>
+                                    <td><a href="/Image/DeleteImage/@item.ImageId" class="btn btn-outline-danger">Sil</a></td>
+                                    <td><a href="/Image/UpdateImage/@item.ImageId" class="btn btn-outline-success">Güncelle</a></td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                }
+                else
+                {
+                    <div class="alert alert-danger">
+                        <strong>UYARI!</strong> Veri tabanında fotoğraf bulunanamıştır!
+                    </div>
+                    <div class="alert alert-warning">
+                        <strong>UYARI!</strong> Lütfen fotoğraf ekleyiniz.
+                    </div>
+                }
+                <br />
+                <a href="/Image/AddImage/" class="btn btn-outline-info">Yeni Görsel Girişi</a>
+            </div>
+        </div>
+    </div>
+</div>

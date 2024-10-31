@@ -4,7 +4,7 @@ using Agriculture.DataAccessLayer.Concrete.Repository;
 
 namespace Agriculture.DataAccessLayer.Concrete.EntityFramework
 {
-    internal class EfImageDal : GenericRepository<Image>, IImageDal
+    public class EfImageDal : GenericRepository<Image>, IImageDal
     {
     }
 }
