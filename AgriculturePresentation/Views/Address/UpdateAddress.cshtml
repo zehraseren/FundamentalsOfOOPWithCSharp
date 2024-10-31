@@ -1,0 +1,44 @@
+﻿@model Address
+
+@{
+    ViewData["Title"] = "UpdateAddress";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">ADRES BİLGİSİ GÜNCELLEME SAYFASI</h4>
+            <form class="forms-sample" method="post">
+                @Html.HiddenFor(x => x.AddressId)
+                <div class="form-group">
+                    <label for="">Açıklama 1</label>
+                    <input type="text" class="form-control" id="exampleInputName1" asp-for="Description1">
+                    <span asp-validation-for="Description1" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label for="">Açıklama 2</label>
+                    <input type="text" class="form-control" id="exampleInputName2" asp-for="Description2">
+                    <span asp-validation-for="Description3" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label for="">Açıklama 3</label>
+                    <input type="text" class="form-control" id="exampleInputName3" asp-for="Description3">
+                    <span asp-validation-for="Description3" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label for="">Açıklama 4</label>
+                    <input type="text" class="form-control" id="exampleInputName4" asp-for="Description4">
+                    <span asp-validation-for="Description4" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label for="">Harita Konumu</label>
+                    <input type="text" class="form-control" id="exampleInputName4" asp-for="MapInfo">
+                    <span asp-validation-for="MapInfo" class="text-danger"></span>
+                </div>
+                <button type="submit" class="btn btn-outline-success me-2">Kaydet</button>
+                <a href="/Address/Index/" class="btn btn-outline-danger">Vazgeç</a>
+            </form>
+        </div>
+    </div>
+</div>
