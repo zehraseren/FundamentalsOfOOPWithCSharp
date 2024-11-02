@@ -1,0 +1,15 @@
+﻿@model List<Address>
+
+<h3 class="tittle">BİZE ULAŞIN</h3>
+<p class="heading-btm-w3ls">Aşağıdaki form üzerinden bize mail gönderebilir veya telefon ile arayabilirsiniz.</p>
+@foreach (var item in Model)
+{
+    <div class="col-md-3 contact-left">
+        <h4>Adres</h4>
+        <p>@item.Description1</p>
+        <p>@item.Description3</p>
+        <p>@item.Description2</p>
+        <h4>Telefon</h4>
+        <p>@item.Description4</p>
+    </div>
+}

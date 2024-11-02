@@ -24,6 +24,10 @@ builder.Services.AddScoped<IAddressDal, EfAddressDal>();
 builder.Services.AddScoped<IAddressService, AddressManager>();
 builder.Services.AddScoped<IContactDal, EfContactDal>();
 builder.Services.AddScoped<IContactService, ContactManager>();
+builder.Services.AddScoped<ISocialMediaDal, EfSocialMediaDal>();
+builder.Services.AddScoped<ISocialMediaService, SocialMediaManager>();
+builder.Services.AddScoped<IAboutDal, EfAboutDal>();
+builder.Services.AddScoped<IAboutService, AboutManager>();
 
 var app = builder.Build();
 
