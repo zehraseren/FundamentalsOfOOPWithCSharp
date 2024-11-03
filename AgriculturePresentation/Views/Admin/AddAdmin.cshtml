@@ -1,0 +1,27 @@
+﻿@model Admin
+
+@{
+    ViewData["Title"] = "AddAdmin";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <br />
+            <h4 class="card-title">YENİ ADMİN KAYDI</h4>
+            <form class="forms-sample" method="post">
+                <div class="form-group">
+                    <label for="exampleInputName1">Kullanıcı Adı</label>
+                    <input type="text" class="form-control" id="" asp-for="Username" placeholder="Kullanıcı Adı">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputName1">Şifre</label>
+                    <input type="password" class="form-control" id="" asp-for="Password" placeholder="Şifre">
+                </div>
+                <button type="submit" class="btn btn-outline-primary me-2">Ekle</button>
+                <a href="/Admin/Index/" class="btn btn-outline-danger">Vazgeç</a>
+            </form>
+        </div>
+    </div>
+</div>

@@ -28,6 +28,8 @@ builder.Services.AddScoped<ISocialMediaDal, EfSocialMediaDal>();
 builder.Services.AddScoped<ISocialMediaService, SocialMediaManager>();
 builder.Services.AddScoped<IAboutDal, EfAboutDal>();
 builder.Services.AddScoped<IAboutService, AboutManager>();
+builder.Services.AddScoped<IAdminDal, EfAdminDal>();
+builder.Services.AddScoped<IAdminService, AdminManager>();
 
 var app = builder.Build();
 

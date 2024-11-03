@@ -1,0 +1,28 @@
+﻿@model Admin
+
+@{
+    ViewData["Title"] = "UpdateAdmin";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <br />
+            <h4 class="card-title">ADMİN DÜZENLEME SAYFASI</h4>
+            <form class="forms-sample" method="post">
+                @Html.HiddenFor(x => x.AdminId)
+                <div class="form-group">
+                    <label for="">Kullanıcı Adı</label>
+                    <input type="text" class="form-control" id="" asp-for="Username">
+                </div>
+                <div class="form-group">
+                    <label for="">Şifre</label>
+                    <input type="text" class="form-control" id="" asp-for="Password">
+                </div>
+                <button type="submit" class="btn btn-outline-primary me-2">Ekle</button>
+                <a href="/Admin/Index/" class="btn btn-outline-danger">Vazgeç</a>
+            </form>
+        </div>
+    </div>
+</div>
