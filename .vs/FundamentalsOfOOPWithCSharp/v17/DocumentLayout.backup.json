@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86ED8758-8359-4B47-9617-4388CC1A642B}|AgriculturePresentation\\Agriculture.Presentation.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\agriculturepresentation\\views\\admin\\addadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{86ED8758-8359-4B47-9617-4388CC1A642B}|AgriculturePresentation\\Agriculture.Presentation.csproj|solutionrelative:agriculturepresentation\\views\\admin\\addadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{86ED8758-8359-4B47-9617-4388CC1A642B}|AgriculturePresentation\\Agriculture.Presentation.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\agriculturepresentation\\views\\shared\\components\\_dashboardtablepartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86ED8758-8359-4B47-9617-4388CC1A642B}|AgriculturePresentation\\Agriculture.Presentation.csproj|solutionrelative:agriculturepresentation\\views\\shared\\components\\_dashboardtablepartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86ED8758-8359-4B47-9617-4388CC1A642B}|AgriculturePresentation\\Agriculture.Presentation.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\agriculturepresentation\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{86ED8758-8359-4B47-9617-4388CC1A642B}|AgriculturePresentation\\Agriculture.Presentation.csproj|solutionrelative:agriculturepresentation\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{86ED8758-8359-4B47-9617-4388CC1A642B}|AgriculturePresentation\\Agriculture.Presentation.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\agriculturepresentation\\viewcomponents\\_dashboardtablepartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86ED8758-8359-4B47-9617-4388CC1A642B}|AgriculturePresentation\\Agriculture.Presentation.csproj|solutionrelative:agriculturepresentation\\viewcomponents\\_dashboardtablepartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86ED8758-8359-4B47-9617-4388CC1A642B}|AgriculturePresentation\\Agriculture.Presentation.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\agriculturepresentation\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{86ED8758-8359-4B47-9617-4388CC1A642B}|AgriculturePresentation\\Agriculture.Presentation.csproj|solutionrelative:agriculturepresentation\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86ED8758-8359-4B47-9617-4388CC1A642B}|AgriculturePresentation\\Agriculture.Presentation.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\agriculturepresentation\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86ED8758-8359-4B47-9617-4388CC1A642B}|AgriculturePresentation\\Agriculture.Presentation.csproj|solutionrelative:agriculturepresentation\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86ED8758-8359-4B47-9617-4388CC1A642B}|AgriculturePresentation\\Agriculture.Presentation.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\agriculturepresentation\\views\\admin\\updateadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{86ED8758-8359-4B47-9617-4388CC1A642B}|AgriculturePresentation\\Agriculture.Presentation.csproj|solutionrelative:agriculturepresentation\\views\\admin\\updateadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{86ED8758-8359-4B47-9617-4388CC1A642B}|AgriculturePresentation\\Agriculture.Presentation.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\agriculturepresentation\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86ED8758-8359-4B47-9617-4388CC1A642B}|AgriculturePresentation\\Agriculture.Presentation.csproj|solutionrelative:agriculturepresentation\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,65 +26,43 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\AgriculturePresentation\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "AgriculturePresentation\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\AgriculturePresentation\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "AgriculturePresentation\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\AgriculturePresentation\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "AgriculturePresentation\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\AgriculturePresentation\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "AgriculturePresentation\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T06:14:31.818Z",
+              "WhenOpened": "2024-11-03T13:25:49.475Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\AgriculturePresentation\\Views\\Admin\\Index.cshtml",
-              "RelativeDocumentMoniker": "AgriculturePresentation\\Views\\Admin\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\AgriculturePresentation\\Views\\Admin\\Index.cshtml",
-              "RelativeToolTip": "AgriculturePresentation\\Views\\Admin\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T06:07:04.733Z"
+              "DocumentIndex": 1,
+              "Title": "_DashboardTablePartial.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\AgriculturePresentation\\ViewComponents\\_DashboardTablePartial.cs",
+              "RelativeDocumentMoniker": "AgriculturePresentation\\ViewComponents\\_DashboardTablePartial.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\AgriculturePresentation\\ViewComponents\\_DashboardTablePartial.cs",
+              "RelativeToolTip": "AgriculturePresentation\\ViewComponents\\_DashboardTablePartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:39:38.44Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AddAdmin.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\AgriculturePresentation\\Views\\Admin\\AddAdmin.cshtml",
-              "RelativeDocumentMoniker": "AgriculturePresentation\\Views\\Admin\\AddAdmin.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\AgriculturePresentation\\Views\\Admin\\AddAdmin.cshtml",
-              "RelativeToolTip": "AgriculturePresentation\\Views\\Admin\\AddAdmin.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\AgriculturePresentation\\Views\\Shared\\Components\\_DashboardTablePartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "AgriculturePresentation\\Views\\Shared\\Components\\_DashboardTablePartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\AgriculturePresentation\\Views\\Shared\\Components\\_DashboardTablePartial\\Default.cshtml",
+              "RelativeToolTip": "AgriculturePresentation\\Views\\Shared\\Components\\_DashboardTablePartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T05:47:00.8Z",
+              "WhenOpened": "2024-11-04T16:38:37.42Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UpdateAdmin.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\AgriculturePresentation\\Views\\Admin\\UpdateAdmin.cshtml",
-              "RelativeDocumentMoniker": "AgriculturePresentation\\Views\\Admin\\UpdateAdmin.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\AgriculturePresentation\\Views\\Admin\\UpdateAdmin.cshtml",
-              "RelativeToolTip": "AgriculturePresentation\\Views\\Admin\\UpdateAdmin.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T05:46:33.574Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\AgriculturePresentation\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "AgriculturePresentation\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\AgriculturePresentation\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "AgriculturePresentation\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T05:32:58.968Z"
             }
           ]
         }
