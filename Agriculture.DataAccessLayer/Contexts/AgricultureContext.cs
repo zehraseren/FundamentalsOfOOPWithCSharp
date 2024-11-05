@@ -1,9 +1,10 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Agriculture.EntityLayer.Concrete;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace Agriculture.DataAccessLayer.Concrete
 {
-    public class AgricultureContext : DbContext
+    public class AgricultureContext : IdentityDbContext
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

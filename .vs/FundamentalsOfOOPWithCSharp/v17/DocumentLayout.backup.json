@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86ED8758-8359-4B47-9617-4388CC1A642B}|AgriculturePresentation\\Agriculture.Presentation.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\agriculturepresentation\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86ED8758-8359-4B47-9617-4388CC1A642B}|AgriculturePresentation\\Agriculture.Presentation.csproj|solutionrelative:agriculturepresentation\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86ED8758-8359-4B47-9617-4388CC1A642B}|AgriculturePresentation\\Agriculture.Presentation.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\agriculturepresentation\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{86ED8758-8359-4B47-9617-4388CC1A642B}|AgriculturePresentation\\Agriculture.Presentation.csproj|solutionrelative:agriculturepresentation\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3D6A2E16-0DD4-4E09-8AAB-2014CD6B9353}|Agriculture.DataAccessLayer\\Agriculture.DataAccessLayer.csproj|c:\\users\\hp\\desktop\\coding\\fundamentalsofoopwithcsharp\\agriculture.dataaccesslayer\\contexts\\agriculturecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6A2E16-0DD4-4E09-8AAB-2014CD6B9353}|Agriculture.DataAccessLayer\\Agriculture.DataAccessLayer.csproj|solutionrelative:agriculture.dataaccesslayer\\contexts\\agriculturecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,28 +18,15 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\AgriculturePresentation\\Views\\Report\\Index.cshtml",
-              "RelativeDocumentMoniker": "AgriculturePresentation\\Views\\Report\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\AgriculturePresentation\\Views\\Report\\Index.cshtml",
-              "RelativeToolTip": "AgriculturePresentation\\Views\\Report\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-04T17:42:47.009Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ReportController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\AgriculturePresentation\\Controllers\\ReportController.cs",
-              "RelativeDocumentMoniker": "AgriculturePresentation\\Controllers\\ReportController.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\AgriculturePresentation\\Controllers\\ReportController.cs",
-              "RelativeToolTip": "AgriculturePresentation\\Controllers\\ReportController.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAkwJsAAABqAAAAAAAAAA==",
+              "Title": "AgricultureContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\Agriculture.DataAccessLayer\\Contexts\\AgricultureContext.cs",
+              "RelativeDocumentMoniker": "Agriculture.DataAccessLayer\\Contexts\\AgricultureContext.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\FundamentalsOfOOPWithCSharp\\Agriculture.DataAccessLayer\\Contexts\\AgricultureContext.cs",
+              "RelativeToolTip": "Agriculture.DataAccessLayer\\Contexts\\AgricultureContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T17:41:32.686Z",
+              "WhenOpened": "2024-11-05T15:47:09.5Z",
               "EditorCaption": ""
             }
           ]
