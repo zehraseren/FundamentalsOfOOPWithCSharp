@@ -2,6 +2,8 @@
 
 Murat Yücedağ'ın [C# ile OOP Temelleri](https://www.udemy.com/course/csharp-ile-adim-adim-katmanli-mimari/) online kursundan, OOP üzerine eğitim aldığım, öğrenirken yaptığım projenin reposudur.
 
+###### [Sertifika için tıklayınız](https://drive.google.com/file/d/1xZKrD3h4kjOxA0k7hrNWfv-3pqxn8-K6/view?usp=drive_link)
+
 ***
 
 ## OOP Eğitimi ve Agriculture Yönetim Uygulaması
