@@ -1,13 +1,17 @@
 using Agriculture.BusinessLayer.Abstract;
 using Agriculture.BusinessLayer.Concrete;
+using Microsoft.AspNetCore.Authorization;
 using Agriculture.DataAccessLayer.Abstract;
 using Agriculture.DataAccessLayer.Concrete;
+using Microsoft.AspNetCore.Mvc.Authorization;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Agriculture.DataAccessLayer.Concrete.EntityFramework;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
 // AgricultureContext veritabaný baðlamýný uygulamaya ekler.
 builder.Services.AddDbContext<AgricultureContext>();
 // IServiceDal interface için EfServiceDal class'ýný baðýmlýlýk olarak ekler.
@@ -31,6 +35,24 @@ builder.Services.AddScoped<IAboutService, AboutManager>();
 builder.Services.AddScoped<IAdminDal, EfAdminDal>();
 builder.Services.AddScoped<IAdminService, AdminManager>();
 
+builder.Services.AddMvc(config =>
+{
+    // Sistemin bütünün authenticate (kimlik doðrulama) olmasýný saðlar.
+    var policy = new AuthorizationPolicyBuilder()
+                    .RequireAuthenticatedUser()
+                    .Build();
+
+    config.Filters.Add(new AuthorizeFilter(policy));
+});
+
+builder.Services.AddAuthentication(
+    CookieAuthenticationDefaults.AuthenticationScheme)
+    .AddCookie(x =>
+    {
+        x.LoginPath = "/Login/Index";
+    });
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -47,6 +69,7 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+app.UseAuthentication();
 
 app.MapControllerRoute(
     name: "default",

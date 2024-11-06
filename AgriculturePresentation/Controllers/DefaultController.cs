@@ -1,9 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Agriculture.EntityLayer.Concrete;
 using Agriculture.BusinessLayer.Abstract;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Agriculture.Presentation.Controllers
 {
+    [AllowAnonymous]
     public class DefaultController : Controller
     {
         private readonly IContactService _contactService;
